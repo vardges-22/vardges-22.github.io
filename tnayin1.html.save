@@ -1,0 +1,88 @@
+!DOCTYPE html>
+<!-- Blank Comment -->
+<html>
+  <body>
+
+        <div>Dummy Space 2</div>
+
+        <IMG SRC="lawyer.jpg">
+
+        <div>
+          <SPAN ID=column1>AMAZING FEATURE #1</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column2>AMAZING FEATURE #2</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column3>AMAZING FEATURE #3</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+        </div>
+
+  </body>
+</html>
+!DOCTYPE html>
+<!-- Blank Comment -->
+<html>
+  <body>
+
+        <div>Dummy Space 2</div>
+
+        <IMG SRC="lawyer.jpg">
+
+        <div>
+          <SPAN ID=column1>AMAZING FEATURE #1</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column2>AMAZING FEATURE #2</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column3>AMAZING FEATURE #3</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+        </div>
+
+  </body>
+</html>
+!DOCTYPE html>
+<!-- Blank Comment -->
+<html>
+  <body>
+
+        <div>Dummy Space 2</div>
+
+        <IMG SRC="lawyer.jpg">
+
+        <div>
+          <SPAN ID=column1>AMAZING FEATURE #1</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column2>AMAZING FEATURE #2</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+
+          <SPAN ID=column3>AMAZING FEATURE #3</SPAN>
+          <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+        </div>
+
+  </body>
+</html>
+<!DOCTYPE html>
+<!-- Blank Comment -->
+<html>
+  <body>
+
+	<div>Dummy Space 2</div>
+
+	<IMG SRC="lawyer.jpg">
+	
+	<div>
+	  <SPAN ID=column1>AMAZING FEATURE #1</SPAN>
+	  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+	  
+	  <SPAN ID=column2>AMAZING FEATURE #2</SPAN>
+	  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+	  
+	  <SPAN ID=column3>AMAZING FEATURE #3</SPAN>
+	  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec nulla non felis hendrerit lobortis. Fusce tincidunt molestie commodo. </p>
+	</div>
+
+  </body>
+</html>
