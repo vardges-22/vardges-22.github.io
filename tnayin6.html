@@ -47,7 +47,7 @@
 						loadSignBottom.style.visibility = "visible";};
 
 				query = searchbar.value;
-				xhttp.open("POST", "https://vardges-testrun12.oa.r.appspot.com/namequery/"+query)
+				xhttp.open("POST", "https://vardges-testrun13.oa.r.appspot.com/namequery/"+query)
 				xhttp.send();
 
 				xhttp.onload = function() {
@@ -139,7 +139,7 @@
 				artistId = currCanvasId;
 				ind = parseInt(currCanvasId);
 				var xhttp = new XMLHttpRequest();
-				xhttp.open("POST", "https://vardges-testrun12.oa.r.appspot.com/idquery/"+artistId)
+				xhttp.open("POST", "https://vardges-testrun13.oa.r.appspot.com/idquery/"+artistId)
 				xhttp.send();
 
 				xhttp.onload = function() {

@@ -63,7 +63,6 @@ def idQueryFetcher(idQuery):
     searchResult = idSearcher(idQuery, token)
     return searchResult, {"Access-Control-Allow-Origin": "*"}
 
-# Use for debug
 @app.route('/')
 def forDebug():
     return "hello PPpl"
